@@ -1,0 +1,40 @@
+Moja todolista z tym co musi znaleźć się podczas ćwiczeń związanych z wprowadzeniem do modeli
+
+Wprowadzenie do modeli
+
+Quick example
+Using models
+Fields
+    Field types
+    Field options
+    Automatic primary key fields
+    Verbose field names
+    Relationships
+        Many-to-one relationships
+        Many-to-many relationships
+        Extra fields on many-to-many relationships
+        One-to-one relationships
+    Models across files
+    Field name restrictions
+    Custom field types
+Meta options
+Model attributes
+Model methods
+    Overriding predefined model methods
+    Executing custom SQL
+Model inheritance
+    Abstract base classes
+        Meta inheritance
+        Be careful with related_name and related_query_name
+    Multi-table inheritance
+        Meta and multi-table inheritance
+        Inheritance and reverse relations
+        Specifying the parent link field
+    Proxy models
+        QuerySets still return the model that was requested
+        Base class restrictions
+        Proxy model managers
+        Differences between proxy inheritance and unmanaged models
+    Multiple inheritance
+    Field name “hiding” is not permitted
+Organizing models in a package 
