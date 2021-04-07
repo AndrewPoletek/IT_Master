@@ -1,0 +1,7 @@
+[+]Model index reference
+[+]Index options
+[+]fields
+[+]name
+db_tablespace
+opclasses
+[+]condition
