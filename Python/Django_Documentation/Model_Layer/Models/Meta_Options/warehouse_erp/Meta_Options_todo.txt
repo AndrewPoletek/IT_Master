@@ -26,8 +26,5 @@ Read-only Meta attributes
     []label
     []label_lower
 
-Zadania:
-1. Utwórz strukturę przedstawiającą moduł magazynu towarów w systemie klasy ERP (warehouse_erp
-2. Utwórz strukturę przedstawiającą grę komputerową typu RPG
-3. Utwórz strukturę przestawiającą sklep internetowym
-4. Utwórz strukturę przestawiającą blog
+Treść zadania:
+Utwórz strukturę przedstawiającą moduł magazynu towarów w systemie klasy ERP

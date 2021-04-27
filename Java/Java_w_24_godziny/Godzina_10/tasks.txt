@@ -1,0 +1,2 @@
+1. Utwórz klasę Commodore64Modem z prędkością 300 oraz własną metodą connect
+2. Dodaj metodę disconnect() do jednej z klas w projekcie Modem i zastanów się gdzie ją umieścić aby obsługiwała odłączenie modemu kablowego, DSL i Commodore64
